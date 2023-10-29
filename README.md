@@ -7,3 +7,5 @@ Dashboard Link02: https://public.tableau.com/views/IRevolutionAData-DrivenExplor
 Dashboard Link 03 ; https://public.tableau.com/views/IRevolutionAData-DrivenExplorationOfApplesIPhoneImpactInIndia_Dashboard03/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Story Link :https://public.tableau.com/views/IRevolutionAData-DrivenExplorationOfApplesIPhoneImpactInIndia_Story/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Video Link: https://drive.google.com/file/d/1bZKohmd9eLf-MxQYNe1cY6pZGo9nie1e/view?usp=sharing
